@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋, I'm Manish Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/3835afd2-a302-4949-bce4-bab0aaddd763)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsh4rma&label=Profile%20views&color=0e75b6&style=flat" alt="manishsh4rma" /> </p>
 
