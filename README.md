@@ -29,5 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishsh4rma&show_icons=true&locale=en" alt="manishsh4rma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsh4rma&" alt="manishsh4rma" /></p>
-![image](https://github.com/user-attachments/assets/657a4f25-7c95-4737-9662-26ab2ec2129f)
+
 
