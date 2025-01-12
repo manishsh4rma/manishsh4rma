@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsh4rma&label=Profile%20views&color=0e75b6&style=flat" alt="manishsh4rma" /> </p>
 
-- 🔭 I’m currently working on **Competitive Prigramming**
+- 🔭 I’m currently working on **3D**
 
 - 🌱 I’m currently learning **Web Development**
 
